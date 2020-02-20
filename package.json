@@ -1,5 +1,5 @@
 {
-  "name": "simplefolio",
+  "name": "portfolio",
   "version": "1.0.0",
   "engines": {
     "node": "10.16.3",
@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "url": "git+https://github.com/mkhawark/portfolio.git"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Mohammad Khawar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
+    "url": "https://github.com/mkhawark/portfolio/issues"
   },
-  "homepage": "https://github.com/cobidev/simplefolio#readme",
+  "homepage": "https://github.com/mkhawark/portfolio#readme",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.4.1",
