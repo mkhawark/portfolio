@@ -2,8 +2,8 @@
   "name": "portfolio",
   "version": "1.0.0",
   "engines": {
-    "node": "10.16.3",
-    "npm": "6.9.0"
+    "node": "12.16.1",
+    "npm": "6.13.4"
   },
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "main": "index.js",
